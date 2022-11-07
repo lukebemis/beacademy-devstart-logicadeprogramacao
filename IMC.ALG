@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "IMC"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Descrição   : Crie um programa que declare 3 variáveis para receber nome, peso e altura. Ao final, imprima os dados.
 // Autor(a)    : Lucas Ritter
