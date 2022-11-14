@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Operadores"
 // BeAcademy - Zero to Hero: Lógica de Programação
 // Feito por Lucas Ritter
 // Descrição   : Faça um programa  que solicite ao usuáiro a operação
